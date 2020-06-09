@@ -1,20 +1,18 @@
-const RGB_RANGE = 255;
+const HSB_RANGE = 360;
 const SIZE = 25;
 
 function setup() {
-  createCanvas(RGB_RANGE, RGB_RANGE);
-  
-}
-
-function coordToRGB(coord) {
-  return Math.ceil((coord / RGB_RANGE) * RGB_RANGE)
+  createCanvas(HSB_RANGE, HSB_RANGE);
 }
 
 function draw() {
   noStroke()
+  colorMode(HSB);
   
   for (var i = 0; i < SIZE; i++) {
-    fill(coordToRGB(mouseX + i), coordToRGB(mouseY + i), 255)
-    rect(mouseX + i, mouseY, 1, SIZE) 
+    for (var j = 0; j < SIZE; j++) {
+      fill(mouseX + i, 100, 100)
+      rect(mouseX + i, mouseY + j, 1, 1) 
+    }
   }
 }
