@@ -26,4 +26,10 @@ a collection of p5.js sketches
       <img src="./images/grid-with-margins.png" width=200px height=200px/>
     </td>
   </tr>
+  <tr>
+    <td>zigzag</td>
+    <td>
+      <img src="./images/zigzag.png" width=200px height=200px/>
+    </td>
+  </tr>
 </table>
