@@ -9,6 +9,12 @@ a collection of p5.js sketches
     </td>
   </tr>
   <tr>
+    <td>game-conway</td>
+    <td>
+      <img src="./images/game-conway.png" width=200px height=200px/>
+    </td>
+  </tr>
+  <tr>
     <td>grid-circle</td>
     <td>
       <img src="./images/grid-circle.png" width=200px height=200px/>
