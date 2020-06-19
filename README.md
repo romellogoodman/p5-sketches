@@ -40,6 +40,12 @@ a collection of p5.js sketches
     </td>
   </tr>
   <tr>
+    <td>3d-cubes-multi-rotate</td>
+    <td>
+      <img src="./images/3d-cubes-multi-rotate.png" width=200px height=200px/>
+    </td>
+  </tr>
+  <tr>
     <td>3d-cubes-nested-rotate</td>
     <td>
       <img src="./images/3d-cubes-nested-rotate.png" width=200px height=200px/>
