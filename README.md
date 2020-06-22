@@ -13,6 +13,14 @@ a collection of p5.js sketches
   </tr>
   <tr>
     <td>
+      <a href="/cube-pulse.js">cube-pulse</a>
+    </td>
+    <td>
+      <img src="./images/cube-pulse.png" width=200px height=200px/>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="/game-conway.js">game-conway</a>
     </td>
     <td>
