@@ -53,6 +53,14 @@ a collection of p5.js sketches
   </tr>
   <tr>
     <td>
+      <a href="/moving-letters-margin.js">moving-letters-margin</a>
+    </td>
+    <td>
+      <img src="./images/moving-letters-margin.png" width=200px height=200px/>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="/zigzag.js">zigzag</a>
     </td>
     <td>
