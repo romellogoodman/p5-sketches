@@ -37,6 +37,14 @@ a collection of p5.js sketches
   </tr>
   <tr>
     <td>
+      <a href="/grid-square-flex-height-width.js">grid-square-flex-height-width</a>
+    </td>
+    <td>
+      <img src="./images/grid-square-flex-height-width.png" width=200px height=200px/>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="/grid-with-cascade.js">grid-with-cascade</a>
     </td>
     <td>
@@ -57,6 +65,14 @@ a collection of p5.js sketches
     </td>
     <td>
       <img src="./images/moving-letters-margin.png" width=200px height=200px/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/words-tired.js">words-tired</a>
+    </td>
+    <td>
+      <img src="./images/words-tired.png" width=200px height=200px/>
     </td>
   </tr>
   <tr>
