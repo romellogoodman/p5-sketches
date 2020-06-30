@@ -29,6 +29,14 @@ a collection of p5.js sketches
   </tr>
   <tr>
     <td>
+      <a href="/glitch-windows.js">glitch-windows</a>
+    </td>
+    <td>
+      <img src="./images/glitch-windows.png" width=200px height=200px/>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="/grid-circle.js">grid-circle</a>
     </td>
     <td>
