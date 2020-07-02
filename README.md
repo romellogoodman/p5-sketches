@@ -77,6 +77,22 @@ a collection of p5.js sketches
   </tr>
   <tr>
     <td>
+      <a href="/snake-1.js">snake-1</a>
+    </td>
+    <td>
+      <img src="./images/snake-1.png" width=200px height=200px/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/snake-2.js">snake-2</a>
+    </td>
+    <td>
+      <img src="./images/snake-2.png" width=200px height=200px/>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="/words-tired.js">words-tired</a>
     </td>
     <td>
