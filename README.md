@@ -5,6 +5,14 @@ a collection of p5.js sketches
 <table>
   <tr>
     <td>
+      <a href="/abc.js">abc</a>
+    </td>
+    <td>
+      <img src="./images/abc.png" width=200px height=200px/>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="/brush-color-spectrum.js">brush-color-spectrum</a>
     </td>
     <td>
@@ -17,6 +25,14 @@ a collection of p5.js sketches
     </td>
     <td>
       <img src="./images/cube-pulse.png" width=200px height=200px/>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="/echo.js">echo</a>
+    </td>
+    <td>
+      <img src="./images/echo.png" width=200px height=200px/>
     </td>
   </tr>
   <tr>
